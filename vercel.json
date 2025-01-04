@@ -14,8 +14,8 @@
   ],
   "functions": {
     "index.js": {
-      "memory": 1024, // Increase memory allocation
-      "maxDuration": 10 // Max duration (Vercel limit)
+      "memory": 1024,
+      "maxDuration": 10 
     }
   }
 }
